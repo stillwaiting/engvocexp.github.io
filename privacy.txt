@@ -68,6 +68,7 @@ are obligated not to disclose or use the information for any other
 purpose.
 
 --- Security ---
+
 We are striving to use commercially acceptable means of protecting your 
 Personal Information. But remember that no method of transmission over 
 the Internet, or method of electronic storage is 100% secure and 
